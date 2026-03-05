@@ -1,0 +1,63 @@
+{
+  "court_name": "",
+  "date": "",
+  "bench": "",
+  "court_number": "",
+  "cases": [
+    {
+      "item_number": "7",
+      "case_number": "CRL OP 4444/2026",
+      "case_type": "CRLOP",
+      "year": "2026",
+      "petitioner": "",
+      "respondent": "THE STATE REP. BY THE INSPECTOR OF POLICE, AND ANOTHER. C.MURUGANANDAM",
+      "advocates": "M/S.C.MURUGANANDAM; N.SHANMUGASUNDARAM; PUBLIC PROSECUTOR FOR R1",
+      "section": "",
+      "listing_type": "Dispensed with (d.w)"
+    },
+    {
+      "item_number": "8",
+      "case_number": "CRL OP 12198/2026",
+      "case_type": "CRLOP",
+      "year": "2026",
+      "petitioner": "",
+      "respondent": "THE STATE REP. BY ITS STATION HOUSE OFFICER AND ANOTHER.",
+      "advocates": "M/S. T.V.SAI SRUJAN; POOJA .P; G.THAMIZHARASI; NIKITA RAIGUR; RACHANA; ASHNAL.S; MEHARUNISHA. A.S.M; SABARI; SIVASANKARI; PUBLIC PROSECUTOR (PUDUCHERRY ) FOR; R1",
+      "section": "",
+      "listing_type": "Dispensed with (d.w)"
+    },
+    {
+      "item_number": "9",
+      "case_number": "CRL OP 10244/2026",
+      "case_type": "CRLOP",
+      "year": "2026",
+      "petitioner": "",
+      "respondent": "STATE REP.BY, THE INSPECTOR OF POLICE, AND 2 OTHERS. A.K.SACHINDHAR",
+      "advocates": "M/S.A.K.SACHINDHAR; ASWIN PRASANNA .A.S; AGILESH KUMAR .S; PUBLIC PROSECUTOR FOR R1",
+      "section": "",
+      "listing_type": "Dispensed with (d.w)"
+    },
+    {
+      "item_number": "10",
+      "case_number": "CRL OP 6720/2026",
+      "case_type": "CRLOP",
+      "year": "2026",
+      "petitioner": "",
+      "respondent": "THE DEPUTY SUPERINTENDENT OF POLICE, AND 2 OTHERS.",
+      "advocates": "M/S. R.NALLIYAPPAN; M/S.R.NALLIYAPPAN; T.MOHANRAJU; D.JEEVITHA; B.SANTHANAGOPALAKRISHNAN; A.PRITHVIRAJ; G.SATHISH; PUBLIC PROSECUTOR FOR R1",
+      "section": "",
+      "listing_type": "Dispensed with (d.w)"
+    },
+    {
+      "item_number": "11",
+      "case_number": "CRL OP 12726/2026",
+      "case_type": "CRLOP",
+      "year": "2026",
+      "petitioner": "",
+      "respondent": "STATE REP.BY, THE INSPECTOR OF POLICE, AND ANOTHER.",
+      "advocates": "M/S. R.MUKESH KANNAH; M/S.R.MUKESH KANNAH; V.NAVEEN KUMAR; R.EZHUMALAI; M.PREETHI; D.BARATH KUMAR; PUBLIC PROSECUTOR FOR R1",
+      "section": "",
+      "listing_type": "Dispensed with (d.w)"
+    }
+  ]
+}
